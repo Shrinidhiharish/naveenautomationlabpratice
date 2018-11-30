@@ -1,5 +1,5 @@
-package Practice;
-//Prgm t learn about data types
+package practice_1;
+//Prgm to learn about data types
 //class is a keyword
 //main()is already defined in java which is the execution point of the pgm
 //; should be provided for completing any statement.

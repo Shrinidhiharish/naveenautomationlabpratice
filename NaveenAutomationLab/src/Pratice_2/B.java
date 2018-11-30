@@ -1,9 +1,9 @@
-package Part2Pratice;
+package Pratice_2;
 
 public class B extends SuperKeywordConcept{
 public B() {
 	//super(10);//to go to parent class constructor,it wont call default constructor.
-	super();//it calls default constructor
+	//super();//it calls default constructor
 	
 	System.out.println("child it is!");
 }

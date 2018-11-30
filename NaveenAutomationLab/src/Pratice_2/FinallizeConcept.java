@@ -1,4 +1,4 @@
-package Part2Pratice;
+package Pratice_2;
 //finalize is a method
 public class FinallizeConcept {
 

@@ -1,4 +1,4 @@
-package Part2Pratice;
+package Pratice_2;
 //finally is a block
 //though there is exception finally block statement will get executed
 //finally keyword is always used with try catch 

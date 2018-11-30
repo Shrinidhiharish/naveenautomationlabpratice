@@ -1,4 +1,4 @@
-package Part2Pratice;
+package Pratice_2;
 
 public class Car { //class is a entity where we define property , variables etc.
 //global variables

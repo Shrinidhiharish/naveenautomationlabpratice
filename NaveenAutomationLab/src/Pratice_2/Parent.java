@@ -1,8 +1,9 @@
-package Part2Pratice;
+package Pratice_2;
 
-public final class Parent {
+public  class Parent {
 public void start()
 {
 	System.out.println("parent class");
 }
+
 }

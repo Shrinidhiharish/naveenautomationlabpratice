@@ -1,4 +1,4 @@
-package Part2Pratice;
+package Pratice_2;
 
 public class ConstructorConcepts {
 //constructor is a class entity used to define class feature while creating the objects.

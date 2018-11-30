@@ -1,4 +1,4 @@
-package part15;
+package package_collections;
 //hash table no indexing we have key and value
 import java.util.Hashtable;
 public class HashTableConcepts {

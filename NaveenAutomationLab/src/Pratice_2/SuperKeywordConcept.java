@@ -1,4 +1,4 @@
-package Part2Pratice;
+package Pratice_2;
 //super keyword is always written in child class
 //it should be the first statement in the child class
 //inside a constructor you cannot have more than one super keyword

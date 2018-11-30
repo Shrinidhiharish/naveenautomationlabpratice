@@ -1,4 +1,4 @@
-package Practice;
+package practice_1;
 
 public class _2DarrayConcept {
 

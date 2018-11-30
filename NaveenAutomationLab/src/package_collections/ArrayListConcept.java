@@ -1,4 +1,4 @@
-package part15;
+package package_collections;
 import java.util.ArrayList;
 public class ArrayListConcept {
 
